@@ -3,5 +3,5 @@ Data and analysis code for paper  'Multi-regional module-based signal transmissi
 
 Please cite 
 
-[X Jia, J Siegle, S Durand, G Heller, T Ramirez, S Olsen. (2020) Multi-area functional modules mediate feedforward and recurrent processing in visual cortical hierarchy. bioRxiv](https://doi.org/10.1101/2020.08.30.272948)
+[X Jia, J Siegle, S Durand, G Heller, T Ramirez, C Koch, S Olsen. (2020) Multi-area functional modules mediate feedforward and recurrent processing in visual cortical hierarchy. bioRxiv](https://doi.org/10.1101/2020.08.30.272948)
 
